@@ -1,4 +1,4 @@
-# Python Challange
+# Python Challenge
 Repository for the first Python homework (Bootcamp Week 3)
 
 # Python Homework - Py Me Up, Charlie
